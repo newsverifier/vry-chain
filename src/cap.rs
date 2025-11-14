@@ -1,0 +1,1 @@
+const MAX_SUPPLY: u128 = 21_000_000_000_000; // 21M $VRY
