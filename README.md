@@ -1,0 +1,2 @@
+# vry-chain
+$VRY
