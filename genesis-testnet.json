@@ -1,0 +1,14 @@
+{
+  "genesis_time": "2025-11-14T00:00:00Z",
+  "chain_id": "vry-testnet-1",
+  "app_state": {
+    "pof": {
+      "max_supply": "21000000000000",
+      "tx_fee_percent": "0.001",
+      "block_reward_share": "0.5",
+      "operator_share": "0.5",
+      "newsverifier_treasury": "vry1newsverifier..."
+    },
+    "bank": { "supply": [] }
+  }
+}
